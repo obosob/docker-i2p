@@ -15,4 +15,4 @@ ADD config /root/.i2p
 
 EXPOSE 4444/tcp 4445/tcp 6668/tcp 7657/tcp
 
-CMD ["/usr/bin/i2prouter", "launchdinternal"]
+CMD ["/usr/bin/i2prouter", "console"]
