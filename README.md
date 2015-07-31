@@ -1,4 +1,4 @@
 docker-i2p
 ==========
 
-[![Docker Repository on Quay.io](https://quay.io/repository/philipsoutham/i2p/status "Docker Repository on Quay.io")](https://quay.io/repository/philipsoutham/i2p)
+i2p in a docker container
